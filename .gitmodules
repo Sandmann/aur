@@ -1,3 +1,6 @@
 [submodule "cmakeed"]
 	path = cmakeed
 	url = ssh+git://aur@aur4.archlinux.org/cmakeed.git/
+[submodule "orocos-kdl"]
+	path = orocos-kdl
+	url = ssh+git://aur@aur4.archlinux.org/orocos-kdl.git
