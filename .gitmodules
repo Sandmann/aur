@@ -4,3 +4,6 @@
 [submodule "orocos-kdl"]
 	path = orocos-kdl
 	url = ssh+git://aur@aur4.archlinux.org/orocos-kdl.git
+[submodule "youbot_driver-git"]
+	path = youbot_driver-git
+	url = ssh+git://aur@aur4.archlinux.org/youbot_driver-git.git
