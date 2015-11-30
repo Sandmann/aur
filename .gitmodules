@@ -10,3 +10,6 @@
 [submodule "python2-ctypesgen-git"]
 	path = python2-ctypesgen-git
 	url = ssh+git://aur@aur4.archlinux.org/python2-ctypesgen-git.git
+[submodule "libgraphqlparser"]
+	path = libgraphqlparser
+	url = ssh+git://aur@aur4.archlinux.org/libgraphqlparser.git
