@@ -22,3 +22,6 @@
 [submodule "ruby-hoe-yard"]
 	path = ruby-hoe-yard
 	url = ssh+git://aur@aur4.archlinux.org/ruby-hoe-yard.git
+[submodule "ruby-utilrb-2"]
+	path = ruby-utilrb-2
+	url = ssh+git://aur@aur4.archlinux.org/ruby-utilrb-2.git
