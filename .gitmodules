@@ -16,3 +16,6 @@
 [submodule "ruby-utilrb"]
 	path = ruby-utilrb
 	url = ssh+git://aur@aur4.archlinux.org/ruby-utilrb.git
+[submodule "ruby-rake-compiler-0.8"]
+	path = ruby-rake-compiler-0.8
+	url = ssh+git://aur@aur4.archlinux.org/ruby-rake-compiler-0.8.git
