@@ -19,3 +19,6 @@
 [submodule "ruby-rake-compiler-0.8"]
 	path = ruby-rake-compiler-0.8
 	url = ssh+git://aur@aur4.archlinux.org/ruby-rake-compiler-0.8.git
+[submodule "ruby-hoe-yard"]
+	path = ruby-hoe-yard
+	url = ssh+git://aur@aur4.archlinux.org/ruby-hoe-yard.git
