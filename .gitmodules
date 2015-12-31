@@ -13,3 +13,6 @@
 [submodule "libgraphqlparser"]
 	path = libgraphqlparser
 	url = ssh+git://aur@aur4.archlinux.org/libgraphqlparser.git
+[submodule "ruby-utilrb"]
+	path = ruby-utilrb
+	url = ssh+git://aur@aur4.archlinux.org/ruby-utilrb.git
