@@ -25,3 +25,6 @@
 [submodule "ruby-utilrb-2"]
 	path = ruby-utilrb-2
 	url = ssh+git://aur@aur4.archlinux.org/ruby-utilrb-2.git
+[submodule "ruby-autobuild"]
+	path = ruby-autobuild
+	url = ssh+git://aur@aur4.archlinux.org/ruby-autobuild.git
