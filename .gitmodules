@@ -28,3 +28,6 @@
 [submodule "ruby-autobuild"]
 	path = ruby-autobuild
 	url = ssh+git://aur@aur4.archlinux.org/ruby-autobuild.git
+[submodule "wjelement"]
+	path = wjelement
+	url = ssh+git://aur@aur4.archlinux.org/wjelement.git
