@@ -31,3 +31,9 @@
 [submodule "wjelement"]
 	path = wjelement
 	url = ssh+git://aur@aur4.archlinux.org/wjelement.git
+[submodule "ooc"]
+	path = ooc
+	url = ssh+git://aur@aur4.archlinux.org/ooc.git
+[submodule "ompl"]
+	path = ompl
+	url = ssh+git://aur@aur4.archlinux.org/ompl.git
