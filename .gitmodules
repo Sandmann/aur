@@ -40,3 +40,6 @@
 [submodule "libfreenect-git"]
 	path = libfreenect-git
 	url = ssh+git://aur@aur4.archlinux.org/libfreenect-git.git
+[submodule "libfreenect"]
+	path = libfreenect
+	url = ssh+git://aur@aur4.archlinux.org/libfreenect.git
