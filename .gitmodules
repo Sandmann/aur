@@ -49,3 +49,6 @@
 [submodule "ruby-facets"]
 	path = ruby-facets
 	url = ssh+git://aur@aur4.archlinux.org/ruby-facets.git
+[submodule "opensplice-dds"]
+	path = opensplice-dds
+	url = ssh+git://aur@aur4.archlinux.org/opensplice-dds.git
