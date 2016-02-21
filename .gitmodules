@@ -52,3 +52,6 @@
 [submodule "opensplice-dds"]
 	path = opensplice-dds
 	url = ssh+git://aur@aur4.archlinux.org/opensplice-dds.git
+[submodule "orocos-kdl-python2"]
+	path = orocos-kdl-python2
+	url = ssh+git://aur@aur4.archlinux.org/orocos-kdl-python2.git
