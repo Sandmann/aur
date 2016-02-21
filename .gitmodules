@@ -37,3 +37,6 @@
 [submodule "ompl"]
 	path = ompl
 	url = ssh+git://aur@aur4.archlinux.org/ompl.git
+[submodule "libfreenect-git"]
+	path = libfreenect-git
+	url = ssh+git://aur@aur4.archlinux.org/libfreenect-git.git
