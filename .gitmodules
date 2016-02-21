@@ -46,3 +46,6 @@
 [submodule "spcuuid"]
 	path = spcuuid
 	url = ssh+git://aur@aur4.archlinux.org/spcuuid.git
+[submodule "ruby-facets"]
+	path = ruby-facets
+	url = ssh+git://aur@aur4.archlinux.org/ruby-facets.git
