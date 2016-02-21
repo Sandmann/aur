@@ -58,3 +58,6 @@
 [submodule "omplapp"]
 	path = omplapp
 	url = ssh+git://aur@aur4.archlinux.org/omplapp.git
+[submodule "wjelement-git"]
+	path = wjelement-git
+	url = ssh+git://aur@aur4.archlinux.org/wjelement-git.git
