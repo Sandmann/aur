@@ -55,3 +55,6 @@
 [submodule "orocos-kdl-python2"]
 	path = orocos-kdl-python2
 	url = ssh+git://aur@aur4.archlinux.org/orocos-kdl-python2.git
+[submodule "omplapp"]
+	path = omplapp
+	url = ssh+git://aur@aur4.archlinux.org/omplapp.git
