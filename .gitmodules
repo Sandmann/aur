@@ -64,3 +64,6 @@
 [submodule "go-graphql-go"]
 	path = go-graphql-go
 	url = ssh+git://aur@aur4.archlinux.org/go-graphql-go.git
+[submodule "go-gojsonschema"]
+	path = go-gojsonschema
+	url = ssh+git://aur@aur4.archlinux.org/go-gojsonschema
