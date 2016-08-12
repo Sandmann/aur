@@ -61,3 +61,6 @@
 [submodule "wjelement-git"]
 	path = wjelement-git
 	url = ssh+git://aur@aur4.archlinux.org/wjelement-git.git
+[submodule "otrtool"]
+	path = otrtool
+	url = ssh+git://aur@aur4.archlinux.org/otrtool.git
