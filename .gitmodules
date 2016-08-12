@@ -64,3 +64,15 @@
 [submodule "otrtool"]
 	path = otrtool
 	url = ssh+git://aur@aur4.archlinux.org/otrtool.git
+[submodule "go-graphql-go"]
+	path = go-graphql-go
+	url = ssh+git://aur@aur4.archlinux.org/go-graphql-go.git
+[submodule "go-gojsonschema"]
+	path = go-gojsonschema
+	url = ssh+git://aur@aur4.archlinux.org/go-gojsonschema.git
+[submodule "go-uuid"]
+	path = go-uuid
+	url = ssh+git://aur@aur4.archlinux.org/go-uuid.git
+[submodule "omniorb"]
+	path = omniorb
+	url = ssh+git://aur@aur4.archlinux.org/omniorb.git
