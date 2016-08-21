@@ -76,3 +76,6 @@
 [submodule "omniorb"]
 	path = omniorb
 	url = ssh+git://aur@aur4.archlinux.org/omniorb.git
+[submodule "c-pluff"]
+	path = c-pluff
+	url = ssh+git://aur@aur4.archlinux.org/c-pluff.git
