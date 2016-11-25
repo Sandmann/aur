@@ -61,6 +61,9 @@
 [submodule "wjelement-git"]
 	path = wjelement-git
 	url = ssh+git://aur@aur4.archlinux.org/wjelement-git.git
+[submodule "otrtool"]
+	path = otrtool
+	url = ssh+git://aur@aur4.archlinux.org/otrtool.git
 [submodule "go-graphql-go"]
 	path = go-graphql-go
 	url = ssh+git://aur@aur4.archlinux.org/go-graphql-go.git
@@ -70,3 +73,9 @@
 [submodule "go-uuid"]
 	path = go-uuid
 	url = ssh+git://aur@aur4.archlinux.org/go-uuid.git
+[submodule "omniorb"]
+	path = omniorb
+	url = ssh+git://aur@aur4.archlinux.org/omniorb.git
+[submodule "c-pluff"]
+	path = c-pluff
+	url = ssh+git://aur@aur4.archlinux.org/c-pluff.git
