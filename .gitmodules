@@ -79,3 +79,6 @@
 [submodule "c-pluff"]
 	path = c-pluff
 	url = ssh+git://aur@aur4.archlinux.org/c-pluff.git
+[submodule "go-json-gold"]
+	path = go-json-gold
+	url = ssh+git://aur@aur4.archlinux.org/go-json-gold.git
