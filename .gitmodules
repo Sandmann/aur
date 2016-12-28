@@ -85,3 +85,6 @@
 [submodule "python-pyld"]
 	path = python-pyld
 	url = ssh+git://aur@aur4.archlinux.org/python-pyld.git
+[submodule "python-graphene"]
+	path = python-graphene
+	url = ssh+git://aur@aur4.archlinux.org/python-graphene.git
