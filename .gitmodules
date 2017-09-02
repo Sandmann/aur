@@ -91,3 +91,6 @@
 [submodule "python-aenum"]
 	path = python-aenum
 	url = ssh+git://aur@aur4.archlinux.org/python-aenum.git
+[submodule "gigalomania"]
+	path = gigalomania
+	url = ssh+git://aur@aur4.archlinux.org/gigalomania.git
