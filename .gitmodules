@@ -91,3 +91,6 @@
 [submodule "gigalomania"]
 	path = gigalomania
 	url = ssh+git://aur@aur4.archlinux.org/gigalomania.git
+[submodule "pqp"]
+	path = pqp
+	url = ssh+git://aur@aur4.archlinux.org/pqp.git
