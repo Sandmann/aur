@@ -94,3 +94,30 @@
 [submodule "pqp"]
 	path = pqp
 	url = ssh+git://aur@aur4.archlinux.org/pqp.git
+[submodule "orocos-log4cpp"]
+	path = orocos-log4cpp
+	url = ssh+git://aur@aur4.archlinux.org/orocos-log4cpp.git
+[submodule "orocos-rtt"]
+	path = orocos-rtt
+	url = ssh+git://aur@aur4.archlinux.org/orocos-rtt.git
+[submodule "orocos-rtt-omniorb"]
+	path = orocos-rtt-omniorb
+	url = ssh+git://aur@aur4.archlinux.org/orocos-rtt-omniorb.git
+[submodule "orocos-bfl"]
+	path = orocos-bfl
+	url = ssh+git://aur@aur4.archlinux.org/orocos-bfl.git
+[submodule "orocos-ocl"]
+	path = orocos-ocl
+	url = ssh+git://aur@aur4.archlinux.org/orocos-ocl.git
+[submodule "orocos-orogen"]
+	path = orocos-orogen
+	url = ssh+git://aur@aur4.archlinux.org/orocos-orogen.git
+[submodule "orocos-typelib"]
+	path = orocos-typelib
+	url = ssh+git://aur@aur4.archlinux.org/orocos-typelib.git
+[submodule "orocos-utilmm"]
+	path = orocos-utilmm
+	url = ssh+git://aur@aur4.archlinux.org/orocos-utilmm.git
+[submodule "orocos-utilrb"]
+	path = orocos-utilrb
+	url = ssh+git://aur@aur4.archlinux.org/orocos-utilrb.git
