@@ -121,3 +121,6 @@
 [submodule "orocos-utilrb"]
 	path = orocos-utilrb
 	url = ssh+git://aur@aur4.archlinux.org/orocos-utilrb.git
+[submodule "orocos-kdl-python"]
+	path = orocos-kdl-python
+	url = ssh+git://aur@aur4.archlinux.org/orocos-kdl-python.git
